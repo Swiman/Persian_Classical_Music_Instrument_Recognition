@@ -13,7 +13,7 @@
 
 
 ### Future work:
-### Implementation of a backend service to show this distribution in a chart alongside playing the actual audio stream.
+### Implementation of a backend service to show instrument distribution in a chart alongside playing the actual audio stream.
 
 
 
